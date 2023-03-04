@@ -1,0 +1,21 @@
+.buttonStyle{
+    -fx-background-color: #046986;
+    -fx-background-radius: 50 50 50 50;
+}
+
+.borderColor{
+    -fx-border-color: #046986;
+    -fx-border-width: 3px;
+}
+
+.backgroundColor{
+    -fx-background-color: #046986;
+}
+
+.whiteBackgroundColor{
+    -fx-background-color: #FFFFFF;
+}
+
+.outputStyle{
+    -fx-text-fill: red;
+}
